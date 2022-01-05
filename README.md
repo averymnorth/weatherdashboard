@@ -129,6 +129,6 @@ We would like you to have well over 200 commits by graduation, so commit early a
 
 You are required to submit the following:
 
-* The URL of the deployed application
+* The URL of the deployed application: https://averymnorth.github.io/weatherdashboard/
 
 * The URL of the GitHub repository: https://github.com/averymnorth/weatherdashboard
